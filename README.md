@@ -1,4 +1,4 @@
-##Using the test suite
+#Using the test suite
 
 Go to test-server and run:
 ```
@@ -16,7 +16,7 @@ http://localhost:8000 accepts records as number of records in the record body. I
 
 Record file has to be placed in rootdirectory/dataset folder
 
-##System Requirements
+#System Requirements
 MySQL Server
 NodeJS
 
